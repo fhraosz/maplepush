@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "236030502101",
+    "firebase_url": "https://maplepush.firebaseio.com",
+    "project_id": "maplepush",
+    "storage_bucket": "maplepush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236030502101:android:0352c9e67681cc51",
+        "android_client_info": {
+          "package_name": "com.example.maplealert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236030502101-dc2egrfam71o096t813dhg6giub8dnb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maplealert",
+            "certificate_hash": "5505a62ef32eb4ef4da73b3d454082a693732fc7"
+          }
+        },
+        {
+          "client_id": "236030502101-7go8bntd549mrvoe6ap7cnaanbjj0fe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbt4GqPbZ-Uc9M8VIlSiFhgYFRjYQRg_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236030502101-7go8bntd549mrvoe6ap7cnaanbjj0fe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
